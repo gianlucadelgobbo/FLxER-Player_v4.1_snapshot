@@ -1,0 +1,30 @@
+﻿<flash_project name="flxerGallery" version="1">
+    <project_folder name="main" expanded="true">
+        <project_file path=".:FlxerGallery/main/DrawerFunc.as" filetype="as" />
+        <project_file path=".:FlxerGallery/main/Txt.as" filetype="as" />
+        <project_file path=".:FlxerGallery/main/BitmapDataToBinaryPNG.as" filetype="as" />
+        <project_file path=".:FlxerGallery/main/ByteArrayUploader.as" filetype="as" />
+    </project_folder>
+    <project_folder name="core" expanded="true">
+        <project_file path=".:FlxerGallery/core/FlxerToolbar.as" filetype="as" />
+        <project_file path=".:FlxerGallery/core/FlxerGallery.as" filetype="as" />
+        <project_file path=".:FlxerGallery/core/FlxerPlayer.as" filetype="as" />
+        <project_file path=".:FlxerGallery/core/FlxerSelector.as" filetype="as" />
+        <project_file path=".:FlxerGallery/core/ThumbSaver.as" filetype="as" />
+        <project_file path=".:FlxerGallery/core/ThumbLoader.as" filetype="as" />
+    </project_folder>
+    <project_folder name="comp" expanded="true">
+        <project_file path=".:FlxerGallery/comp/ButtonSelector.as" filetype="as" />
+        <project_file path=".:FlxerGallery/comp/ButtonTools.as" filetype="as" />
+        <project_file path=".:FlxerGallery/comp/ButtonVolume.as" filetype="as" />
+        <project_file path=".:FlxerGallery/comp/Alt.as" filetype="as" />
+    </project_folder>
+    <project_folder name="FLxER" expanded="true">
+        <project_folder name="core" expanded="true">
+            <project_file path=".:FLxER/core/Player.as" filetype="as" />
+        </project_folder>
+    </project_folder>
+    <project_file path=".:Starter.as" filetype="as" />
+    <project_file path=".:Preferences.as" filetype="as" />
+    <project_file path=".:flxerPlayerFLxER.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>
